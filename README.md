@@ -18,3 +18,10 @@ Frequenz: 			16MHz
 Prozessor: 			PIC18F46K20
 
 
+Sensor:
+https://github.com/jrmcguire/BME280
+
+Display:
+https://pic-projekte.de/blog/ssd1306/
+https://github.com/PIC-Nico/SSD1306
+https://pic-projekte.de/forum/viewtopic.php?f=3&t=104
