@@ -1,0 +1,24 @@
+Software Release: 
+
+ Funktionen (Software V2.0) [U]:
+- OLED-Display Anzeige
+- DHT22-Sensor Auswertung
+- USB-UART Schnittstelle
+- Ausgabe der Sensordaten an OLED und UART
+- Eigener OLED-Hintergrund 
+- Umbenennungen in der OLED Library
+
+
+ Funktionen (Software V1.1) [F]:
+- OLED-Display Anzeige
+- DHT22-Sensor Auswertung
+- USB-UART Schnittstelle
+- Ausgabe der Sensordaten an OLED und UART
+- Umbenennungen in der OLED Library
+- Überarbeitete Display Anzeige
+
+
+ Funktionen (Software V1.0) [F]:
+- OLED-Display Anzeige
+- DHT22-Sensor Auswertung
+- Ausgabe der Sensordaten an OLED und UART

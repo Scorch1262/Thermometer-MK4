@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\ThermoMK4v1.1.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>10260</used>
+      <free>55276</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3936</length>
+      <used>1173</used>
+      <free>2763</free>
+    </memory>
+  </executable>
+</project>

@@ -1,0 +1,28 @@
+Hardware Release:
+
+ Board (Hardware V1.1) [F]:
+- PIC18F46K20
+ - ISCP
+- DHT22 Sensor
+- LiPo Ladechip 
+ - Status LEDs
+- Power LED
+- OLED-Display
+- USB-UART Chip (MCP2200)
+ - RXD LED
+ - TXD LED
+- Fehler behoben: Belegung DHT22
+- Fehler behoben: UART Belegung
+
+
+ Board (Hardware V1.0) [F]:
+- PIC18F46K20
+ - ISCP
+- DHT22 Sensor
+- LiPo Ladechip 
+ - Status LEDs
+- Power LED
+- OLED-Display
+- USB-UART Chip (MCP2200)
+ - RXD LED
+ - TXD LED
